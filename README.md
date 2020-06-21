@@ -72,7 +72,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-https://github.com/arvz108/-XYLOPHONE/blob/master/ic_launcher-web.png?raw=true
+<p align="center">
+  <a href="https://github.com/github_username/repo">
+    <img src="images/Screenshot_20200621-111325.jpg" alt="" width="80" height="80">
+  </a>
+<p/a>
+
 
 ### Built With
 

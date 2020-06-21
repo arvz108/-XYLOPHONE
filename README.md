@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/ic_launcher-web.png" alt="" width="80" height="80">
   </a>
 
   <h3 align="center">XYLOPHONE</h3>

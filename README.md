@@ -43,14 +43,14 @@
   <p align="center">
     XYLO-PHONE Flutter App
     <br />
-    <a href="https://github.com/github/arvz108/-XYLOPHONE/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/arvz108/-XYLOPHONE/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github/arvz108/-XYLOPHONE/">View Demo</a>
+    <a href="https://github.com/arvz108/-XYLOPHONE/">View Demo</a>
     ·
-    <a href="https://github.com/github/arvz108/-XYLOPHONE/issues">Report Bug</a>
+    <a href="https://github.com/arvz108/-XYLOPHONE/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github/arvz108/-XYLOPHONE/issues">Request Feature</a>
+    <a href="https://github.com/arvz108/-XYLOPHONE/issues">Request Feature</a>
   </p>
 </p>
 
@@ -72,9 +72,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/github_username/repo">
-    <img src="images/Screenshot_20200621-111325.jpg" alt="" width="80" height="80">
+    <img src="images/Screenshot_20200621-111325.jpg" alt="" width="288" height="512">
   </a>
 <p/a>
 
@@ -124,7 +124,9 @@ Project Link: [https://github.com/arvz108/-XYLOPHONE](https://github.com/github_
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* [Angela Yu](https://github.com/angelabauer)
+* [Angela Yu's London App Brewery](https://www.appbrewery.co/courses/)
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
